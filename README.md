@@ -65,6 +65,10 @@ To build this project, you need **Java JDK 21+**.
     The compiled extension will be located in:
     `build/libs/SpringBootScanner-1.0-SNAPSHOT.jar`
 
+## POC
+
+https://github.com/user-attachments/assets/5fb318a5-5f06-40fb-acd0-047b29348758
+
 ## Development
 
 You can easily add new endpoints to the scanner by modifying the `doScan` method in `SpringBootScanner.java`.
